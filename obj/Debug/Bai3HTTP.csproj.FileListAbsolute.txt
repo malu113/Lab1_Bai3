@@ -1,0 +1,8 @@
+D:\Source\Bai3HTTP\obj\Debug\Bai3HTTP.ProjectInstaller.resources
+D:\Source\Bai3HTTP\obj\Debug\Bai3HTTP.csproj.GenerateResource.cache
+D:\Source\Bai3HTTP\obj\Debug\Bai3HTTP.csproj.CoreCompileInputs.cache
+D:\Source\Bai3HTTP\bin\Debug\Bai3HTTP.exe.config
+D:\Source\Bai3HTTP\bin\Debug\Bai3HTTP.exe
+D:\Source\Bai3HTTP\bin\Debug\Bai3HTTP.pdb
+D:\Source\Bai3HTTP\obj\Debug\Bai3HTTP.exe
+D:\Source\Bai3HTTP\obj\Debug\Bai3HTTP.pdb
